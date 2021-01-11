@@ -97,34 +97,30 @@ while True:
 
 ```
 
-**Output:**
-
-Tambah data
-
-![output-praktikum-5](assets/img/t.png) <<<<<
-
-
-Ubah data
-
-![output-praktikum-5](assets/img/u.png) <<<<<
 
 
 Lihat data
 
-![output-praktikum-5](assets/img/l.png) <<<<<
+![image](image/2.jpeg) <<<<<
+
+
+Hapus Data
+
+![image](image/1.jpeg) <<<<<
 
 
 Cari data
 
-![output-praktikum-5](assets/img/c.png) <<<<<
+![image](image/3.jpeg) <<<<<
 
 
-Hapus data
+Tambah data
 
-![ou](assets/img/h.png) <<<<<
-
-
-**Flowchart:**
+![image](image/4.jpeg) <<<<<
 
 
-![output-praktikum-5](assets/img/flowchart.png) <<<<<
+
+
+![image](image/5.jpeg) <<<<<
+
+
