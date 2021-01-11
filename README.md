@@ -123,4 +123,8 @@ Tambah data
 
 ![image](image/5.jpeg) <<<<<
 
+Flowerchart
+
+![image](image/flowercht.png)
+
 
