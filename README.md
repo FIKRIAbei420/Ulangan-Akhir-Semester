@@ -1,8 +1,8 @@
-# Ulangan-Akhir-Semester# Ulangan-Akhir-Semester
+# Ulangan-Akhir-Semester
 
 **Struktur Package & Module**
 
-![package](images/folder.png)
+
 
 **Penjelasan:**
 
